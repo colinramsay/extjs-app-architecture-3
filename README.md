@@ -1,1 +1,1 @@
-Ext JS Application Architecture Sample Code - Chapter 2
+Ext JS Application Architecture Sample Code - Chapter 3
